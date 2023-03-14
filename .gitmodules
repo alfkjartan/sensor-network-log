@@ -1,0 +1,3 @@
+[submodule "qt-socket-plot"]
+	path = qt-socket-plot
+	url = https://github.com/alfkjartan/qt-socket-plot.git
